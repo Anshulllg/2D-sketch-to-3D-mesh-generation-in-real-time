@@ -1,5 +1,5 @@
 # 2D-sketch-to-3D-mesh-generation-in-real-time
-A sketching interface that transforms 2D freeform strokes drawn on the artboard to a 3D model mesh in OpenGL. According to the research Teddy, all the processes are implemented (Igarashi et al., 1999).
+A sketching interface that transforms 2D freeform strokes drawn on the artboard to a 3D model mesh in OpenGL.
 
 **Dependencies required** 
 1. [OpenGL](https://www.opengl.org/)
